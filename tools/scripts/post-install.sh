@@ -3,7 +3,7 @@
 #get the basic dependencies set up
 sudo apt update
 sudo apt upgrade -y
-sudo apt install curl vim build-essential gnome-tweaks git-y
+sudo apt install curl vim build-essential gnome-tweaks git -y
 
 #install volta (volta.sh)
 curl https://get.volta.sh | bash
